@@ -41,4 +41,4 @@ npm-debug.log*
 *.pem
 *.key
 *.crt
-.next 
+.next
