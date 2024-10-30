@@ -1,4 +1,4 @@
-// File: /Users/prabirkalwani/Programming/Personal_Git_Repos/Psi-Phy/client/app/(auth)/login/layout.tsx
+// File: /Users/prabirkalwani/Programming/Personal_Git_Repos/Psi-Phy/Client/app/(auth)/login/layout.tsx
 import * as entry from '../../../../../app/(auth)/login/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

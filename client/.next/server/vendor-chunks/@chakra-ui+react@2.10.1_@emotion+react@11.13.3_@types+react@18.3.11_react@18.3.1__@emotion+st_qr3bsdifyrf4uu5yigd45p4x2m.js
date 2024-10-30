@@ -2775,9 +2775,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! next/dist/build/webpack/loaders/next-flight-loader/module-proxy */ "(rsc)/./node_modules/.pnpm/next@14.2.14_@babel+core@7.25.7_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-loader/module-proxy.js");
 
 
-const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/prabirkalwani/Programming/Personal_Git_Repos/Psi-Phy/client/node_modules/.pnpm/@chakra-ui+react@2.10.1_@emotion+react@11.13.3_@types+react@18.3.11_react@18.3.1__@emotion+st_qr3bsdifyrf4uu5yigd45p4x2m/node_modules/@chakra-ui/react/dist/esm/color-mode/color-mode-script.mjs#ColorModeScript`);
+const e0 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/prabirkalwani/Programming/Personal_Git_Repos/Psi-Phy/Client/node_modules/.pnpm/@chakra-ui+react@2.10.1_@emotion+react@11.13.3_@types+react@18.3.11_react@18.3.1__@emotion+st_qr3bsdifyrf4uu5yigd45p4x2m/node_modules/@chakra-ui/react/dist/esm/color-mode/color-mode-script.mjs#ColorModeScript`);
 
-const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/prabirkalwani/Programming/Personal_Git_Repos/Psi-Phy/client/node_modules/.pnpm/@chakra-ui+react@2.10.1_@emotion+react@11.13.3_@types+react@18.3.11_react@18.3.1__@emotion+st_qr3bsdifyrf4uu5yigd45p4x2m/node_modules/@chakra-ui/react/dist/esm/color-mode/color-mode-script.mjs#getScriptSrc`);
+const e1 = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`/Users/prabirkalwani/Programming/Personal_Git_Repos/Psi-Phy/Client/node_modules/.pnpm/@chakra-ui+react@2.10.1_@emotion+react@11.13.3_@types+react@18.3.11_react@18.3.1__@emotion+st_qr3bsdifyrf4uu5yigd45p4x2m/node_modules/@chakra-ui/react/dist/esm/color-mode/color-mode-script.mjs#getScriptSrc`);
 
 
 /***/ })

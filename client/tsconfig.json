@@ -15,12 +15,12 @@
     "isolatedModules": true,
     "jsx": "preserve",
     "incremental": true,
-    "baseUrl": ".",
+    "baseUrl": "",
     "paths": {
-      "#components/*": ["./components/*"],
-      "#hooks/*": ["./hooks/*"],
-      "#data/*": ["./data/*"],
-      "#theme": ["./theme"]
+      "#components/*": ["components/*"],
+      "#hooks/*": ["hooks/*"],
+      "#data/*": ["data/*"],
+      "#theme": ["theme"]
     },
     "plugins": [
       {
